@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Ismail</h1>
-<h3 align="center">I’m Youssef Ismail, a motivated IT Engineering student at EPI - International Multidisciplinary School, where I’m building expertise in software development, Internet of Things system design , and cutting-edge technologies. With a solid foundation in programming languages like C++, JavaScript, and Python, I’ve gained hands-on experience in Software development, robot programming ,database management, and collaborative projects that tackle real-world problems with creative solutions.</h3>
+<h3 align="center"> a motivated IT Engineering student at EPI - International Multidisciplinary School, where I’m building expertise in software development, Internet of Things system design , and cutting-edge technologies. With a solid foundation in programming languages like C++, JavaScript, and Python, I’ve gained hands-on experience in Software development, robot programming ,database management, and collaborative projects that tackle real-world problems with creative solutions.</h3>
 
 - 📫 How to reach me **youssefismail09@gmail.com**
 
